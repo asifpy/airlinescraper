@@ -1,0 +1,4 @@
+requests==2.8.1
+tabulate==0.7.5
+argparse==1.4.0
+beautifulsoup4==4.4.1

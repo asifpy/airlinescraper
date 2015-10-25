@@ -30,7 +30,7 @@ optional arguments:
 ##Example
 The below example displays the 15 days history for flight AIC102 in tabular form
 
-python airline.py -fh AIC102
+`python airline.py -fh AIC102`
 
 | Date          | From                                      | To                                         | Departure - Arrival        | Duration     |
 | ------------- | ------------------------------------------|------------------------------------------- | ---------------------------| -------------|
